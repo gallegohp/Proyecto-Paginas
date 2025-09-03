@@ -51,7 +51,7 @@ body {
 }
 
 .cabecera {
-    background-image: url(/paginaPersonal/assets/cabecera.jpg);
+    background-image: url(../assets/cabecera.jpg);
     display: flex;
     justify-content: center;
     background-position: right center;
